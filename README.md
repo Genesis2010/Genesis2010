@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Niro Github!&fontSize=90" />
 
+[![Solved.ac
+Genesis2010](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 <!--
 **Genesis2010/Genesis2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
