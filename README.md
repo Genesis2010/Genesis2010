@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Niro Github!&fontSize=90" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genesis2010&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Genesis2010)](https://solved.ac/Genesis2010)
 
 <!--
