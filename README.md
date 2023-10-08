@@ -24,6 +24,7 @@
   
   |Activity|Role|Date|
   |:------:|:---:|:---:|
+  |DO SOPT 33th|iOS Developer|2023|
   |University MakeUs Challenge 가톨릭대 4기|iOS Developer|2023|
   |가톨릭대 정보통신전자공학부 학술소모임 S.O.C|소모임장|2023|
   |Apple Developer Academy @ POSTECH 1st|Tech Junior Learner|2022|
